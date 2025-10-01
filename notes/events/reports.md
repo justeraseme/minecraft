@@ -173,3 +173,6 @@ come up!
 <!-- TODO: find more neutral resources -->
 
 - [Chat Reporting Helper](https://modrinth.com/resourcepack/chat-reporting-helper) (A resource pack for 1.19.4+ that replaces No Chat Reports icons and some in-game text with more clearer information on how Chat Reporting works. Good if you are unsure what the harms are, or why this all matters to people.)
+- [If you are a server owner, read No Chat Report's guide on how to secure your players.](https://github.com/Aizistral-Studios/No-Chat-Reports/wiki/Protecting-Server-Players)
+- [If you're curious why we have to panic, review this exploit submitted by Nodus Client.](https://github.com/nodusclient/gaslight)
+- [You could also install Guardian, a mod that makes you unreportable against the server's will. This may get you banned from servers. Linked is a fork that supports 1.20+.](https://github.com/z7087/guardian)

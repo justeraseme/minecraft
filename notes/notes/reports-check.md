@@ -101,3 +101,10 @@ never show any chat messages in the reporting menu at all, **with no**
 **exceptions**. To check this, just go to Social Interactions, click
 a player's warning icon, click "Chat messages" and see if any messages
 come up!
+
+***
+
+# Further Reading
+- [If you are a server owner, read No Chat Report's guide on how to secure your players.](https://github.com/Aizistral-Studios/No-Chat-Reports/wiki/Protecting-Server-Players)
+- [If you're curious why we have to panic, review this exploit submitted by Nodus Client.](https://github.com/nodusclient/gaslight)
+- [You could also install Guardian, a mod that makes you unreportable against the server's will. This may get you banned from servers. Linked is a fork that supports 1.20+.](https://github.com/z7087/guardian)
