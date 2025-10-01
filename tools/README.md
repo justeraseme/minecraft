@@ -1,3 +1,6 @@
+# Minecraft Resources
+Click [here](resources/README.md)!
+
 # Minecraft Tools
 - [Launchers](launchers.md)
 - [Modpacks](modpacks.md)
