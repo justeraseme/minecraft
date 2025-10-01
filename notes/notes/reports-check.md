@@ -74,7 +74,7 @@ Continue to the next section **before** you assume that the server
 has reportable messages.
 
 ### 4. Checking "Social Interactions"
-> [!DANGER]
+> [!CAUTION]
 > This may not actually mean your messages are unreportable.  
 > Have caution as you would any other server with reports available.
 
@@ -92,7 +92,7 @@ clickable, then chat messages cannot be reported, even if they
 are signed.
 
 ### 5. Checking the "chat messages" reporting menu itself!
-> [!DANGER]
+> [!CAUTION]
 > This may not actually mean your messages are unreportable.  
 > Have caution as you would any other server with reports available.
 
