@@ -140,6 +140,10 @@ Continue to the next section **before** you assume that the server
 has reportable messages.
 
 ### 4. Checking "Social Interactions"
+> [!DANGER]
+> This may not actually mean your messages are unreportable.  
+> Have caution as you would any other server with reports available.
+
 If you are on a server that disables chat reports, this step **is**
 **unnecessary**. You may need to bind the "Social Interactions" key
 if this button is not bound. You have to be in a server to see
@@ -154,8 +158,9 @@ clickable, then chat messages cannot be reported, even if they
 are signed.
 
 ### 5. Checking the "chat messages" reporting menu itself!
-**This may not actually mean the server is safe**, so take this with
-a grain of salt.
+> [!DANGER]
+> This may not actually mean your messages are unreportable.  
+> Have caution as you would any other server with reports available.
 
 Sometimes if you try to report chat messages of other people, they
 never show any chat messages in the reporting menu at all, **with no**
