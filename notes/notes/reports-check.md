@@ -1,5 +1,5 @@
 # How can I tell if Chat Reports are on?
-> [!INFO]
+> [!NOTE]
 > This is the same list of steps as the one in the Current Events section.
 
 There are a couple of ways. **You should follow these instructions**
