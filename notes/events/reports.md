@@ -78,6 +78,11 @@ install **Mod Menu**, so you can configure mods in-game,
 **or you will not have a mods button**!
 
 ### 1. Bottom left indicator (NCR)
+> [!CAUTION]
+> If the server you're playing on is a realm, **stop the guide right here**, 
+> you can get banned even if nobody reports you.  
+> More info can be found [here](https://github.com/Aizistral-Studios/No-Chat-Reports/wiki/The-Realms-Question).
+
 If you use the NCR mod and didn't turn off the mod's effects in
 the multiplayer menu, you can see a little button on the bottom right
 of your screen when chatting. For **Fabulously Optimized** users, it
