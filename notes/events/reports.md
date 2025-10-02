@@ -79,8 +79,12 @@ install **Mod Menu**, so you can configure mods in-game,
 
 ### 1. Bottom left indicator (NCR)
 > [!CAUTION]
-> If the server you're playing on is a realm, **stop the guide right here**, 
-> you can get banned even if nobody reports you.  
+> If the server you're playing on is a realm, **stop the guide right here**.  
+> You can get banned from a realm, even if nobody reports you, just for swearing.
+> It doesn't matter if you trust the other players or not, as Mojang automatically
+> scans chats.  
+> You should consider a dedicated server if you haven't already.
+> 
 > More info can be found [here](https://github.com/Aizistral-Studios/No-Chat-Reports/wiki/The-Realms-Question).
 
 If you use the NCR mod and didn't turn off the mod's effects in
