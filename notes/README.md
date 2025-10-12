@@ -4,7 +4,7 @@
 - [Chat Reports: What They Are, Why They're Bad & What To Do](events/reports.md)
 
 # Mod Compatibility
-- [Sodium & BetterEnd](compat/sodiumend.md)
+- [Sodium & BetterEnd](compat/sodiumend.md) (1.21+)
 
 # My Notes
 - [Adventure Tools does not have official distributions](notes/distribution.md)
