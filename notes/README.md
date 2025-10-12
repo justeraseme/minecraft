@@ -3,6 +3,8 @@
 - [Minecraft's Performance since 1.21.5](events/performance-since-21.5.md)
 - [Chat Reports: What They Are, Why They're Bad & What To Do](events/reports.md)
 
+# Mod Compatibility
+- [Sodium & BetterEnd](compat/sodiumend.md)
 
 # My Notes
 - [Adventure Tools does not have official distributions](notes/distribution.md)
@@ -10,3 +12,4 @@
 - [Curseforge or Modrinth?](notes/curserinth.md)
 - [Chat Reports: How To Check?](notes/reports-check.md)
 - [The Best Y Level for Diamonds](notes/ylevel.md)
+
