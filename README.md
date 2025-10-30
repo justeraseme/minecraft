@@ -13,7 +13,6 @@ Good as new!
 # Browse
 This is a placeholder, so very rough state.
 
-- [Adventure Tools (Official Modpack)](advtools)
 - [Optimizations & Enhancements](mods)
 - [Resources & Tools](tools)
 - [Notes, Documentation & Ongoing Events](notes)
@@ -22,5 +21,4 @@ This is a placeholder, so very rough state.
 # Boring stuff
 
 ## License
-justeraseme/minecraft is licensed under BSD-2. More information can be found [here](LICENSE).  
-Adventure Tools uses configurations from [Simply Optimized](https://modrinth.com/modpack/sop), which is an optimizations-only modpack available on Modrinth.
+justeraseme/minecraft is licensed under BSD-2. More information can be found [here](LICENSE). 
