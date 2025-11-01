@@ -2,6 +2,7 @@
 - [You shouldn't be using OptiFine.](events/optifine.md)
 - [Minecraft's Performance since 1.21.5](events/performance-since-21.5.md)
 - [Chat Reports: What They Are, Why They're Bad & What To Do](events/reports.md)
+- [Fixing hidden coordinates + chunk borders not working](notes/debug.md)
 
 # Mod Compatibility
 - [Sodium & BetterEnd](compat/sodiumend.md) (1.21+)
