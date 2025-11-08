@@ -12,7 +12,7 @@ Open .minecraft (or the instance folder, if you are using a custom launcher), an
 Change `sulfur_water_color` to `false`.
 
 ## 2. Set a custom dependancy override
-Leave the BetterEnd folder but **stay in config**. Create the file if it doesn't exist.
+Leave the BetterEnd folder but **stay in config**. Create the file `???` if it doesn't exist.
 
 Now, in that file, copy the JSON data from [this comment's instructions](https://github.com/CaffeineMC/sodium/issues/2869#issuecomment-2817351635) and paste it in that file.
 

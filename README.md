@@ -13,10 +13,10 @@ Good as new!
 # Browse
 This is a placeholder, so very rough state.
 
-- [Optimizations & Enhancements](mods)
+- [Modding Guide](mods)
+- [Guides & Blogging](lockpick)
 - [Resources & Tools](tools)
 - [Notes, Documentation & Ongoing Events](notes)
-- [Guides & Blogging](lockpick)
 
 # Boring stuff
 
