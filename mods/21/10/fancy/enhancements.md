@@ -1,0 +1,4 @@
+| Mod | Incompatibilities | Install on | Description | Notes |
+| --- | --- | --- | --- |
+| [Chest Tracker](https://modrinth.com/mod/chest-tracker-port) | Unknown | Client | Client side item storage - remember where you've put things. | Linked is a port. The text above chests doesn't currently render for unknown reasons (at least on my end) | 
+| [Item Descriptions](https://modrinth.com/mod/item-descriptions) | Unknown | Client | This mod adds unique descriptions for all blocks, items, enchantments, effects, and mobs - built in a way that makes it easy to add modded content. | Seems to cause rare crashes when Jade is installed. |
