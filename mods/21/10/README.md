@@ -1,4 +1,4 @@
 | Modloader | Optimizations | Enhancements |
 | --- | --- | --- |
-| Fabric | [🚧 Work In Progress](fast) | [🚧 Work In Progress](fancy) |
+| Fabric | [🚧 Work In Progress](fabric/fast) | [🚧 Work In Progress](fabric/fancy) |
 | NeoForge | ❌ Unavailable | ❌ Unavailable |
